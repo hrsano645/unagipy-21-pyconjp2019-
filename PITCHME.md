@@ -262,10 +262,6 @@ Unagi.pyもPython駿河ももっとよくなってほしい
 
 ---
 
-[Hiroshi Sanoさんのツイート: &quot;Thanks All pythonista. See you next year🙋 #pyconjp https://t.co/eudKBQ8FZt… &quot;](https://twitter.com/hrs_sano645/status/1173899364756049920?s=12)
-
----
-
 [Hiroshi Sanoさんのツイート: &quot;お先に帰ります。東海勢のスピーカーとパトロンと一緒にお疲れ様会でした。来年もまた #pyconjp で会いましょう😁 https://t.co/DYBV5fUpeM… &quot;](https://twitter.com/hrs_sano645/status/1173925824631902209?s=12)
 
 ---
@@ -283,3 +279,7 @@ LT作ってた時に静岡の紹介をしようと乗せた勢力図
 ### 来年の目標
 
 [Hiroshi Sanoさんのツイート: &quot;来年は登壇するぞ！ #pyconjp&quot;](https://twitter.com/hrs_sano645/status/1173881384831569921?s=12)
+
+---
+
+[Hiroshi Sanoさんのツイート: &quot;Thanks All pythonista. See you next year🙋 #pyconjp https://t.co/eudKBQ8FZt… &quot;](https://twitter.com/hrs_sano645/status/1173899364756049920?s=12)
