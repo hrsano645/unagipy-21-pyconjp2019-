@@ -1,0 +1,13 @@
+#テーマの設定
+theme : sky
+
+
+#ロゴアイコンの設定
+logo : pysuruga-logo.png
+
+
+#フットノートの設定
+
+
+#スライドのページ数表示の設定
+slide-number: true
