@@ -25,6 +25,8 @@
 - PyCon JP 2019 Day2
 - まとめ
 
+---
+
 ### PyCon JP 2019行ってきたよ
 
 自分は 9/15~9/17 の三日間
@@ -62,34 +64,72 @@
 ---
 
 すみません、あとはよく覚えてないです！🤪
+
 ---
 
 ### PyCon JP 2019 Day 1
+
+
 
 ---
 
 ### 基調講演:Day1
 
-独学プログラマーの@@さんのトーク
+[01-100_Opening＋KeyNote_Why Python is Eating the World (Cory Althoff) - YouTube](https://www.youtube.com/watch?v=Bcxz-jXMLZk)
+
+独学プログラマーの原著者、コフィーさんのトーク
 
 - Pythonから始めたのではなくて、学生時代にJavaがわからなくてあきらめていたらしい
 - 独学で始めた時にはThink Pythonで始めたのもなかなか
 - アメリカのエンジニアでのPythonの価値観
   - 転職市場やフリーランスの報酬も結構いい
   - キャリアは方向性が沢山ある
+
+---
+
 - これからPythonを始まるなら環境はとてもいい
   - （何事もだけど）Keep in touch!
   - コミュニティにつながること
   - 学ぶときはブログやPodcastで発信しようと言うのもよかった
-  
+
+---
+
 ### セッション:Day1
-- Google (組合せ最適化, シフトのスケジュールを
-- APIサーバーのCIとテスト構成
+
+[PythonとGoogle Optimization Toolsの最適化ライブラリで、「人と人の相性を考慮したシフトスケジューラ」を作ってみた。](https://pycon.jp/2019/schedule?sessionId=101)
+
+- 組合せ最適化, シフトのスケジュールを最適に組む
+- 各従業員の属性以外にも、人との相性を考慮することが結構求められる
+- 実際のプロダクトのテストでは、速度の問題がある（時間がかかりすぎると使われない）から、ちょうどいい最適化手法を選ぶ必要もあり
+
+---
+
+[Pythonを使ったAPIサーバー開発を始める際に整備したCIとテスト機構](https://pycon.jp/2019/schedule?sessionId=119)
+
+- APIサーバーの開発環境について。CIし続けれるのは正義
+- テスト用にモックとDBを考えた結果、テスト用のDBを選んだ方が効率がいい時もある
+- aiohttpでAPI叩いたり、pytest-aiohttpを知らなかったので触ってみたい
+- vcrapyというリクエストとレスポンスを記録再生するツールもある
+
+---
+
+### 地域コミュニティミートアップ
+
+PyCamp ミートアップの方々も多く集まって、さらに込み入った話でした。
+
+PyCon JPのブログは実は宣伝に利用して良いらしい
+
+積極的に活用したいですね！
+
+---
 
 ### 見なかったセッション
 
+[Python開発を円滑に進めるためのツール設定](https://pycon.jp/2019/schedule?sessionId=151)
+
 [Hiroshi Sanoさんのツイート: &quot;ビギナーズセッションがかなりブートキャンプ感 #pyconjp&quot;](https://twitter.com/hrs_sano645/status/1173424636975099904?s=12)
 
+---
 
 ### 基調講演:Day2
 
@@ -102,15 +142,21 @@
   - ライン型とセル型
 - 成長点とPython2の終わりの話
 
+---
+
 ### セッション:Day2
 
 ライブコーディングで音楽を奏でる話
 
 （ポルナレフのAA）
 
+---
+
 ###そのほか?
 
 ブース見たりコミュニティの方とお会いしたり
+
+---
 
 ### みてきたブース
 
@@ -118,11 +164,19 @@ GMOのML何に使ってるアンケートがだいぶ分散していたのがす
 
 [Hiroshi Sanoさんのツイート: &quot;静岡勢、なぜか多数Pythonチュートリアルをゲット #pyconjp https://t.co/kRH4bm8nrA… &quot;](https://twitter.com/hrs_sano645/status/1173426178369163264?s=12)
 
+---
+
 [Hiroshi Sanoさんのツイート: &quot;アイシン精機もブース出されてる！ #pyconjp https://t.co/eRWSrDUhmu… &quot;](https://twitter.com/hrs_sano645/status/1173399669000626176?s=12)
+
+---
 
 [Hiroshi Sanoさんのツイート: &quot;アイリッジさんより。ついに手に入れてしまった。#pyconjp https://t.co/BxPoe3IVaY… &quot;](https://twitter.com/hrs_sano645/status/1173485336409849856?s=12)
 
+---
+
 [Hiroshi Sanoさんのツイート: &quot;#lovot かわいいね（維持費を見て震えてる） #pyconjp https://t.co/hpQzqA2zYW… &quot;](https://twitter.com/hrs_sano645/status/1173866562027163648?s=12)
+
+---
 
 [Hiroshi Sanoさんのツイート: &quot;現在のコミュニティボード 地域や女子会もあるし独学プログラマーの著者さんのイベントも！ #pyconjp… &quot;](https://twitter.com/hrs_sano645/status/1173826034396852225?s=12)
 
@@ -142,6 +196,14 @@ GMOのML何に使ってるアンケートがだいぶ分散していたのがす
 
 なお紙コップのリストは流石にもうできないっぽいです。
 
+---
+
+### パトロンみなさんと記念撮影
+
+[Takayuki Shimizukawaさんのツイート: &quot;#PyConJP 2019 Patrons !!  &#10;@haru860 @selina787b @shimizukawa @tell_k @eisukeito @hrs_sano645 @blami… &quot;](https://twitter.com/shimizukawa/status/1173500756726403073?s=12)
+
+---
+
 ### Day 2 LT
 
 盛り上がってきたのでLTやろうと思って応募しておいた
@@ -154,13 +216,18 @@ GMOのML何に使ってるアンケートがだいぶ分散していたのがす
 
 自分は選ばれなかった。。。
 
+---
+
 ### 選ばれなかったので供養
 
 [Hiroshi Sanoさんのツイート: &quot;抽選漏れたLTを供養する。次やる時はもっとよくしておきます😤 &#10;https://t.co/t9uWKcl6uy&#10;#pyconjp&quot;](https://twitter.com/hrs_sano645/status/1173875324498538496?s=12)
 
+---
+
 ### まとめ
 
 - 今年はセッションを見回ると言うよりはコミュニティの方々とよく会えました
+- 知り合いの学生さんも来てくださってパトロンやった甲斐があった！
 - 静岡も西に真ん中に活発になってきてる。とっても嬉しい。
 - LOVOTは可愛いので抱っこしよう
 
